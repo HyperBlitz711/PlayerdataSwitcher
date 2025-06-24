@@ -1,10 +1,10 @@
 **Setup procedure:**
 - Install WSL with `wsl --install`
-- Navigate to .minecraft directory (using `cd <path>`)
-- Navigate to /saves subdirectory
+- Setup github account, if necessary
+- Navigate to .minecraft/saves directory (`cd ../../mnt/c/users/<username>/appdata/.minecraft/saves` or similar)
 - Create world directory with `mkdir <worldname>`
 - Enter directory with `cd <worldname>`
-- Clone repository with `git clone <repository-url>`
+- Clone repository with `git clone <repository-url> .`
 
 **Use procedure (When it is your turn):**
 - Pull from repo
